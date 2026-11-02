@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**ahcooper/ahcooper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am currently pursuing a Bachelor of Science in Computer Science at Full Sail University while working part-time and developing my technical skills outside the classroom.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+-Computer Science Fundamentals
+-Linux Command Line 
+-Continuous Leaning 
+
+## Current Goals
+
+-Complete my BS in Computer Science
+
+## Commect
+- GitHub: @ahcooper
+
