@@ -14,6 +14,6 @@ I am currently pursuing a Bachelor of Science in Computer Science at Full Sail U
 
 -Complete my BS in Computer Science
 
-## Commect
+## Connect
 - GitHub: @ahcooper
 
